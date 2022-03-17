@@ -32,7 +32,7 @@
 - 🤩 I'm From Faridabad,Haryana.
 - 🔭 I’m currently pursuing my Btech in CSE from [IIITG](https://www.iiitg.ac.in/).
 - 🌱 I’m currently learning more about DSA and programming.
-- 🤔 I’m looking for an Interns.
+- 🤔 I’m looking for an Intern.
 - 📫 How to reach me: [Email](mailto:anshuman19@iiitg.ac.in) , [+91-8287407339](tel:8287407339) , [LinkedIn](https://www.linkedin.com/in/anshuman-722222196/)
 - 😄 I’m currently learning everything.
 - ⚡ Fun fact: I spend almost 1/4th of my day listening to songs every day.
