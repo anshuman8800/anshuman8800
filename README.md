@@ -1,7 +1,6 @@
 ## Hola, I'm [Anshuman!](https://github.com/anshuman8800) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamanshuman&label=Views&color=blue&style=plastic" alt="iamanshuman" /> </p>
-
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=anshuman8800.visitor-badge)
 
 <a href="https://www.linkedin.com/in/anshuman-722222196/">
   <img align="left" alt="Anshuman's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
